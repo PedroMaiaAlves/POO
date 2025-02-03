@@ -1,0 +1,7 @@
+model\Ciclista.class
+model\Data.class
+com\mycompany\bop\games\BopGames.class
+model\Duracao.class
+model\Hora.class
+model\Participante.class
+model\Etapa.class

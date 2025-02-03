@@ -1,0 +1,10 @@
+com\mycompany\pegadacarbono\Onibus.class
+com\mycompany\pegadacarbono\Essencial.class
+com\mycompany\pegadacarbono\Residencial.class
+com\mycompany\pegadacarbono\Edificio.class
+com\mycompany\pegadacarbono\CarbonAnalyzer.class
+com\mycompany\pegadacarbono\IEdificio.class
+com\mycompany\pegadacarbono\IPegadaCarbono.class
+com\mycompany\pegadacarbono\Transporte.class
+com\mycompany\pegadacarbono\PegadaCarbonoComEdificoInterface.class
+com\mycompany\pegadacarbono\Automovel.class
