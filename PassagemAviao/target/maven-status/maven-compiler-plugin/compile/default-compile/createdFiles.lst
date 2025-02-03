@@ -1,0 +1,7 @@
+com\mycompany\passagemaviao\Passageiro.class
+com\mycompany\passagemaviao\Regular.class
+com\mycompany\passagemaviao\Tripulante.class
+com\mycompany\passagemaviao\Agente.class
+com\mycompany\passagemaviao\IViajante.class
+com\mycompany\passagemaviao\Passagem.class
+com\mycompany\passagemaviao\PassagemAviao.class
